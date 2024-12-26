@@ -1,0 +1,6 @@
+[submodule "libraries/Stepper"]
+	path = libraries/Stepper
+	url = https://github.com/arduino-libraries/Stepper.git
+[submodule "libraries/LiquidCrystal"]
+	path = libraries/LiquidCrystal
+	url = https://github.com/arduino-libraries/LiquidCrystal.git
