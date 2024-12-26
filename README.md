@@ -27,4 +27,4 @@ the appropriate commit used against this repo.
 
 ### Arduino
 <img src="pinouts/arduino_nano.png" width=680 alt="Arduino Nano pinout"/>
-<p>[Arduino Nano full pinout](pinout/arduino_nano_full_pinout.pdf)</p>
+<p>[Arduino Nano full pinout](./pinouts/arduino_nano_full_pinout.pdf)</p>
