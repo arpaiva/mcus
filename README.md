@@ -15,10 +15,9 @@ The `--recurse-submodules` arg is very important because
 some of the libraries used herein are included as
 [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). 
 In the event that one forgot to clone with submodules,
-go into the repo directory and run the following two commands:
+go into the repo directory and run:
 ```bash
-git submodule init
-git submodule update
+git submodule update --init --recursive
 ```
 which will fetch all the data from the library repos and check out
 the appropriate commit used against this repo.
